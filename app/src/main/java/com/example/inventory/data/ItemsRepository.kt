@@ -1,3 +1,4 @@
+package com.example.inventory.data
 import kotlinx.coroutines.flow.Flow
 
 /**
